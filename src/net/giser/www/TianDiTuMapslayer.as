@@ -1,5 +1,13 @@
 package net.giser.www
 {
+	import com.esri.ags.SpatialReference;
+	import com.esri.ags.geometry.Extent;
+	import com.esri.ags.geometry.MapPoint;
+	import com.esri.ags.layers.LOD;
+	import com.esri.ags.layers.TileInfo;
+	import com.esri.ags.layers.TiledMapServiceLayer;
+	
+	import flash.net.URLRequest;
 	public class TianDiTuMapslayer extends TiledMapServiceLayer
         {
                 public function TianDiTuMapslayer()

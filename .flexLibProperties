@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <flexLibProperties version="1">
 <includeClasses>
-<classEntry path="com.esrichina.tm.WMSCLayer"/>
-<classEntry path="com.esrichina.tm.BingMapsLayer"/>
+<classEntry path="net.giser.www.BingMapsLayer"/>
+<classEntry path="net.giser.www.GoogleMapServiceLayer"/>
+<classEntry path="net.giser.www.MapABCLayer"/>
+<classEntry path="net.giser.www.MapABCTrafficLayer"/>
+<classEntry path="net.giser.www.OpenStreetMapLayer"/>
+<classEntry path="net.giser.www.TianDiTuMapslayer"/>
+<classEntry path="net.giser.www.WMSCLayer"/>
 </includeClasses>
 <includeResources/>
 <namespaceManifests/>

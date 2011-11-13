@@ -1,5 +1,5 @@
 // ActionScript file
-/
+
 package net.giser.www
 {
 	import com.esri.ags.SpatialReference;
